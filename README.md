@@ -1,5 +1,7 @@
 # Advanced Deep Learning and Reinforcement Learning at UCL & DeepMind 
 
+> Please install [Open in Colab](https://chrome.google.com/webstore/detail/open-in-colab/iogfkhleblhcpcekbiedikdehleodpjo) extension in Google Chrome in order to open a Github-hosted notebook in Google Colab with one-click.
+
 > The course is taught in collaboration with DeepMind. The majority of lectures will be taught by guest lecturers from DeepMind who are leading experts in the field of machine learning and will teach about topics in which they are specialised.
 
 
