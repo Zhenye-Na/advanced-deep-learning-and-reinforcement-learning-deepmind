@@ -38,3 +38,10 @@ This course, taught originally at UCL and recorded for online access, has two in
 | Deep Learning 8: Unsupervised learning and generative models | [lecture video](https://www.youtube.com/watch?v=hMbxmRyDw5M&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=17) |
 |     Reinforcement Learning 10: Classic Games Case Study      | [lecture video](https://www.youtube.com/watch?v=hMbxmRyDw5M&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=18) |
 
+
+
+## Textbooks
+
+- Richard S. Sutton, Andrew G. Barto, c1998, [Reinforcement learning: an introduction](http://readinglists.ucl.ac.uk/items/EEE8C654-B187-3C97-063B-E2292223E61A.html)
+- Csaba Szepesvári, 2010, [Algorithms for reinforcement learning](http://readinglists.ucl.ac.uk/items/02035B4F-F412-9450-9D4B-6BD7AA1DC85D.html)
+- Ian Goodfellow, Yoshua Bengio, Aaron Courville, 2016, [Deep learning](http://readinglists.ucl.ac.uk/items/4F7B3A0D-08E8-2725-8102-42D59B0793F9.html)
