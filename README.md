@@ -4,7 +4,7 @@
 
 > *The course is taught in collaboration with DeepMind. The majority of lectures will be taught by guest lecturers from DeepMind who are leading experts in the field of machine learning and will teach about topics in which they are specialised.*
 
-
+> This repo contains homework, exams and slides I collected from internet **without solutions**. This repo is only for students / developers who are interested in this topic. If this repo conflicts your rights, please do not hesitate to contact me. I promise I will delete this (both repo and history) ASAP.
 
 ## Overview
 
